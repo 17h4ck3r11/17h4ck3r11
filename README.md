@@ -6,4 +6,4 @@
 
 I'm a Security Researcher who loves Offsec 🔎, Hunting Bugs 🐛, Playing CTFs 🧠, Computers 🖥️, & lot more 💥!!! 
 
-- 📫 Connect with me: <a href=https://17h4ck3r11.github.io>17h4ckr11</a>
+- 📫 Connect with me: <a href=https://17h4ck3r11.github.io>17h4ck3r11</a>
