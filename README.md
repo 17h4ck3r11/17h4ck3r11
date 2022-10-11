@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @17h4ck3r11
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, 👋
 
-<!---
-17h4ck3r11/17h4ck3r11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### This side Amit kumar gupta, aka 17h4ck3r11.
+
+<img src="img/Front-page.gif">
+
+I'm a Security Researcher who loves Offsec 🔎, Hunting Bugs 🐛, Playing CTFs 🧠, Computers 🖥️, & lot more 💥!!! 
+
+- 📫 Connect with me: <a href=https://17h4ck3r11.github.io>17h4ckr11</a>
