@@ -1,6 +1,6 @@
 # Hi there, 👋
 
-#### This side Amit kumar gupta, aka 17h4ck3r11.
+#### This side Amit Kumar Gupta, aka 17h4ck3r11.
 
 <img src="img/Front-page.gif">
 
