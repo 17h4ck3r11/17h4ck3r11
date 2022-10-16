@@ -8,4 +8,4 @@ I'm a Security Researcher who loves Offsec 🔎, Programming 👩‍💻, Huntin
 
 - 📫 Connect with me: <a href=https://17h4ck3r11.github.io>17h4ck3r11</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=17h4ck3r11&&show_icons=true&title_color=ffffff&icon_color=FFFF33&text_color=00FFFF&bg_color=151515"/>
+
