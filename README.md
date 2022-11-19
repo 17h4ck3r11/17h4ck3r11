@@ -2,6 +2,8 @@
 
 <h2 align="center">This side Amit Kumar Gupta, aka <a href=https://17h4ck3r11.github.io>17h4ck3r11</a>.</h2>
 
+![](https://komarev.com/ghpvc/?username=17h4ck3r11&color=blue)
+
 <br>
 
 <a target="_blank" align="center">
