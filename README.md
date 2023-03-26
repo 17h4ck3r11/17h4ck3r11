@@ -11,7 +11,7 @@
 </a>
 <br><br><br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi%2C+Welcome+to+my+Github+page+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;I+am+a+Bachelor's+Student+%F0%9F%8E%93;I+am+a+Security+Researcher+%F0%9F%90%9E;I+am+a+Programmer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I+am+an+Offensive+Enthusiast+%F0%9F%94%8E;I+am+a+Penetration+Tester+%F0%9F%A7%AA;I+am+a+CTF+Player+%F0%9F%A7%A0">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi%2C+Welcome+to+my+Github+page+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;I+am+a+Bachelor's+Student+%F0%9F%8E%93;I+am+a+Security+Researcher+%F0%9F%90%9E;I+am+a+Competitive+Programmer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I+am+an+Offensive+Enthusiast+%F0%9F%94%8E;I+am+a+Penetration+Tester+%F0%9F%A7%AA;I+am+a+CTF+Player+%F0%9F%A7%A0">
  
 
 <br><br><br><br><br>
